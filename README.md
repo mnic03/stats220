@@ -7,3 +7,5 @@ The purpose of this repo is to:
 * Display the series of knowledge I have learnt through the course so far 🏫
 * Provide a means by which I can portray my coding for my assignment 🖥️ 
 * Show that data analysis is cool 😎
+
+[](https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importance-of-data-science.jpg)
