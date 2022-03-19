@@ -8,6 +8,6 @@ The purpose of this repo is to:
 * Provide a means by which I can portray my coding for my assignment 🖥️ 
 * Show that data analysis is cool 😎
 
-You can find the link to my website here -> ()
+Make sure to check out this website I made ;) -> https://mnic03.github.io/stats220/
 
 ![](https://www.bioenergyconsult.com/wp-content/uploads/2020/08/importance-of-data-science.jpg)
