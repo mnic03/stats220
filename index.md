@@ -12,6 +12,11 @@ As a part of my assignment, I had to make an original meme using Rstudio. I've i
 
 To make this meme I used Rstudio along with the {magick} package. Below you can find the code I used to produce the meme and the steps taken to do so.
 
+I had to utilise:
+
+1. Functions, arguments, and other code to create the meme 
+2. Experience gained from labs in order to make sense of the code 
+
 ```r
 happy_face <- image_read("https://64.media.tumblr.com/7903b23fc36d7f23ab5408115f0af227/77e3be074fab1668-3d/s500x750/908430bf379b3ef61bbdb5b5e5d3c65d3a836c56.jpg") %>% image_scale(400)
 
