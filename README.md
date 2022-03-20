@@ -1,4 +1,4 @@
-# Brief
+# Repo
 
 Hi! I'm Max and I am a second-year student at the University of Auckland. I study *Psychology* along with *Geographic information science* and take STATS220 as a part of my GISCI major. 
 
